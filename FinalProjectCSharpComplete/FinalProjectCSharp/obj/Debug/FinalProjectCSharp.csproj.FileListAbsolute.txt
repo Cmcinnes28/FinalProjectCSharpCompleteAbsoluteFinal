@@ -1,0 +1,109 @@
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe.config
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.pdb
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Main.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Properties.Resources.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.exe
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.pdb
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Invoice.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Quote.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceDraft.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.QuoteDraft.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.CustomerList.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.PartList.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe.config
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.pdb
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csprojAssemblyReference.cache
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.CustomerList.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.PartList.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.QuoteDraft.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceDraft.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Invoice.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Main.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Properties.Resources.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Quote.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.GenerateResource.cache
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CoreCompileInputs.cache
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.exe
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.pdb
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProject\FinalProjectCSharp_Updated\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceCustomerSearch.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe.config
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.pdb
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.CustomerList.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceCustomerSearch.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.PartList.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.QuoteDraft.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceDraft.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Invoice.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Main.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Properties.Resources.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Quote.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.exe
+C:\Users\Cameron\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.pdb
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceCustomerSearch.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Audit.resources
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\SautinSoft.Document.dll
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\bin\Debug\SautinSoft.Document.xml
+C:\Users\chris\source\repos\FinalProjectCSharp\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CopyComplete
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe.config
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.pdb
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Audit.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.CustomerList.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceCustomerSearch.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.PartList.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.QuoteDraft.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceDraft.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Invoice.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Main.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Properties.Resources.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Quote.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.exe
+C:\Users\Cameron\source\repos\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.pdb
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe.config
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.pdb
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csprojAssemblyReference.cache
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Audit.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.CustomerList.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceCustomerSearch.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.PartList.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.QuoteDraft.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceDraft.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Invoice.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Main.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Properties.Resources.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Quote.resources
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.GenerateResource.cache
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CoreCompileInputs.cache
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.exe
+H:\1 Georgian College\Semester 2\COMP1098 - Net Programming C#\FinalProjectCSharpComplete (1)\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.pdb
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe.config
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.exe
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\bin\Debug\FinalProjectCSharp.pdb
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Audit.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.CustomerList.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceCustomerSearch.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.PartList.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.QuoteDraft.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.InvoiceDraft.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Invoice.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Main.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Properties.Resources.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.Quote.resources
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.exe
+C:\Users\Cameron\source\repos\FinalProjectCSharpCompleteAbsoluteFinal\FinalProjectCSharpComplete\FinalProjectCSharp\obj\Debug\FinalProjectCSharp.pdb
